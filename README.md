@@ -6,6 +6,6 @@
 
 ### Hi everyone 🙋! 
 
-I'm Luis Ricardo Sabino, I'm a Data engineer passionate about technology, share knowledge and learning new things, especially about Data Engineering, Machine learning, Cloud and DevOps
+I'm Luis Ricardo Sabino, I'm a Data Engineer passionate about technology, share knowledge and learning new things, especially about Data Engineering, Machine learning, Cloud and DevOps
 
 ![Sabino github stats](https://github-readme-stats.vercel.app/api?username=RicardoSabinolrs)
