@@ -6,7 +6,7 @@
 
 A little about me:
 
-- :brazil: Joinville, **Brazil**.
+- :brazil: Remote, **Brazil**.
 - 🔭 I’m currently working with **GCP** and **AWS**.
 - 🌱 I'm currently learning everything related to **Data Engineering**, **Data Architecture**, **Machine Learning**, **DevOps** and **automation**.
 
