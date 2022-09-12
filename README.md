@@ -23,6 +23,6 @@ A little about me:
 
 ### 💡  Languages 
 <!-- ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoSabinolrs&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoSabinolrs)](https://github.com/ricardoSabinolrs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoSabinolrs)](https://github.com/ricardoSabinolrs&langs_count=8/github-readme-stats)
 <hr>
 
