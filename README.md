@@ -19,10 +19,10 @@ A little about me:
 
 ### 📈 Stats 
  
-[![Sabino github stats](https://github-readme-stats.vercel.app/api?username=RicardoSabinolrs&theme=cobalt&show_icons=true)](https://github.com/gb8may/github-readme-stats)
+[![Sabino github stats](https://github-readme-stats.vercel.app/api?username=RicardoSabinolrs&theme=codeSTACKr&show_icons=true)](https://github.com/gb8may/github-readme-stats)
 
 ### 💡  Languages 
 <!-- ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoSabinolrs&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoSabinolrs&theme=cobalt&langs_count=12&layout=compact&title_color=2ED3EA)](https://github.com/ricardoSabinolrs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoSabinolrs&theme=codeSTACKr&langs_count=12&layout=compact&title_color=2ED3EA)](https://github.com/ricardoSabinolrs/github-readme-stats)
 <hr>
 
