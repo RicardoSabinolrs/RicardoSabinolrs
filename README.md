@@ -10,7 +10,6 @@ A little about me:
 - 🔭 I’m currently working with Data Architecture and Data Engineering.
 - 🌱 I'm currently learning everything related to **Data Engineering**, **Data Architecture**, **Machine Learning**, **DevOps** and **automation**.
 
-![Sabino github stats](https://github-readme-stats.vercel.app/api?username=RicardoSabinolrs)
 
 ### ⚡ Skills:
 -  ![Python](https://img.shields.io/badge/-Python-blue?&logo=python&logoColor=yellow) ![Go](https://img.shields.io/badge/-Go-00ADD8?&logo=go&logoColor=FFFFFF) ![Java](https://img.shields.io/badge/-Java-007396?&logo=java&logoColor=FFFFFF) ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?&logo=kotlin&logoColor=FFFFFF) ![.NET](https://img.shields.io/badge/-.NET-512BD4?&logo=.NET&logoColor=FFFFFF) ![Apache Kafka](https://img.shields.io/badge/-ApacheKafka-231F20?&logo=ApacheKafka&logoColor=FFFFFF) ![Apache Spark](https://img.shields.io/badge/-ApacheSpark-E25A1C?&logo=ApacheSpark&logoColor=FFFFFF) ![Apache Airflow](https://img.shields.io/badge/-ApacheAirflow-017CEE?&logo=ApacheAirflow&logoColor=FFFFFF) ![Apache Hive](https://img.shields.io/badge/-ApacheHive-FDEE21?&logo=ApacheHive&logoColor=FFFFFF) ![Presto](https://img.shields.io/badge/-Presto-5890FF?&logo=Presto&logoColor=FFFFFF) ![Apache Cassandra](https://img.shields.io/badge/-ApacheCassandra-1287B1?&logo=ApacheCassandra&logoColor=FFFFFF) ![Apache Pulsar](https://img.shields.io/badge/-ApachePulsar-188FFF?&logo=ApachePulsar&logoColor=FFFFFF) ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=FFFFFF) ![CI/CD](https://img.shields.io/badge/-CI/CD-yellowgreen) ![Monitoring](https://img.shields.io/badge/-Monitoring-red) ![Automation](https://img.shields.io/badge/-Automation-green) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) ![DevOps](https://img.shields.io/badge/-DevOps-yellowgreen) 
@@ -20,7 +19,7 @@ A little about me:
 
 ### 📈 Stats 
  
-[![Mayara github stats](https://github-readme-stats.vercel.app/api?username=RicardoSabinolrs&theme=cobalt&show_icons=true)](https://github.com/gb8may/github-readme-stats)
+[![Sabino github stats](https://github-readme-stats.vercel.app/api?username=RicardoSabinolrs&theme=cobalt&show_icons=true)](https://github.com/gb8may/github-readme-stats)
 
 ### 💡  Languages 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoSabinolrs&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
