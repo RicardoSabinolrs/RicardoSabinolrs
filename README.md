@@ -7,7 +7,7 @@
 A little about me:
 
 - :brazil: Remote, **Brazil**.
-- 🔭 I’m currently working with Data Architecture and Data Engineering.
+- 🔭 I’m currently working with Head of Data Engineering.
 - 🌱 I'm currently learning everything related to **Data Engineering**, **Data Architecture**, **Machine Learning**, **DevOps** and **automation**.
 
 
